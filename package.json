@@ -1,5 +1,5 @@
 {
-  "name": "jaydata-odatajs",
+  "name": "@andriyf/odatajs",
   "version": "4.0.1",
   "postfix": "",
   "releaseCandidate": "",
@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jaystack/olingo-odata4-js.git"
+    "url": "git@github.com:andriy-f/olingo-odata4-js.git"
   },
   "engines": {
     "node": ">= 0.10.0"
